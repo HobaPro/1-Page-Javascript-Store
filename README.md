@@ -1,2 +1,2 @@
-# React-2
-React Site
+# Store Site
+js Site
